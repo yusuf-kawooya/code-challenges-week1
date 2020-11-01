@@ -1,0 +1,19 @@
+{
+  "name": "code-challenges-week1",
+  "version": "1.0.0",
+  "description": "the 7 code challenges",
+  "main": "control-source-alcohol testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusuf-kawooya/code-challenges-week1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusuf-kawooya/code-challenges-week1/issues"
+  },
+  "homepage": "https://github.com/yusuf-kawooya/code-challenges-week1#readme"
+}

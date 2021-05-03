@@ -3,7 +3,7 @@
 //should tell the person “Alcohol is not for sale to persons under the age of
 //18”, when the person is above 18 it should tell them “excessive
 //consumption of Alcohol is harmful to your health drink responsibly”
-
+// alcohol testing
  var age="29";
 if(age<18){
     console.log("Alcohol is not for sale to persons under the age of 18");

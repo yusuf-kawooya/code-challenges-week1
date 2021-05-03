@@ -1,4 +1,5 @@
 // some of three numbers
+// a program
 function productOfThreeNumbers(a,b,c) {
     return a * b * c;
 }

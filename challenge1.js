@@ -1,4 +1,4 @@
-
+// to print personal details and course 
 var name="kawooya";
 var age=22;
 var residence="Buziga";
